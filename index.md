@@ -1,8 +1,8 @@
 # meme
 ## My motivation for doing this meme is:
-1.To practice my proficiency in R language.
-2.To finish my **assignment1**.
-3.I'm also interested in this, I hope to make more interesting pictures.
+1. To practice my proficiency in R language.
+2. To finish my **assignment1**.
+3. I'm also interested in this, I hope to make more interesting pictures.
 ## At the same time I made some innovations：
 * I used *two* images.
 * I also *swapped the color of the text and background*.
