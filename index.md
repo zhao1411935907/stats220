@@ -1,4 +1,8 @@
-
+\begin{enumerate}
+    \item Healthcare
+    \item Transportation
+    \item . . .
+\end{enumerate}
 
 ```{r}
 library(magick)
