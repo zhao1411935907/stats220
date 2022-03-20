@@ -1,9 +1,13 @@
-\begin{enumerate}
-    \item Healthcare
-    \item Transportation
-    \item . . .
-\end{enumerate}
-
+# meme
+## My motivation for doing this meme is:
+1.To practice my proficiency in R language.
+2.To finish my **assignment1**.
+3.I'm also interested in this, I hope to make more interesting pictures.
+## At the same time I made some innovations：
+* I used *two* images.
+* I also *swapped the color of the text and background*.
+* I also put the text on top.
+## my code:
 ```{r}
 library(magick)
 picture1<- image_read("https://p1.ssl.qhimgs1.com/bdr/200_200_/t0115f01c975ced943d.jpg") %>%
