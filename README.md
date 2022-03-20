@@ -4,8 +4,10 @@ I created this meme graph for my stats 220 assignment 1. I promise I didn't mean
 
 Here is a link to the website for my stats220 repo: https://github.com/zhao1411935907/stats220
 
-![my meme graph](https://github.com/zhao1411935907/stats220/blob/main/my_meme.png)
+
 {{% highlight html %}}
-<h1>example</h1>
+<h1>mage resources I referenced from elsewhere：
+![p1](https://p1.ssl.qhimgs1.com/bdr/200_200_/t0115f01c975ced943d.jpg)
+![p2}(https://p0.ssl.qhimgs4.com/t011625a36dc40eab59.jpg)</h1>
 {{% /highlight %}}
 
