@@ -9,6 +9,5 @@ Here is a link to the website for my stats220 repo: https://github.com/zhao14119
 <h1>mage resources I referenced from elsewhere：
 </h1>
 {{% /highlight %}}
-
 ![插入图片](https://p1.ssl.qhimgs1.com/bdr/200_200_/t0115f01c975ced943d.jpg)
-![插入图片}(https://p0.ssl.qhimgs4.com/t011625a36dc40eab59.jpg)
+![插入图片}(https://github.com/zhao1411935907/stats220/blob/main/my_meme.png)
