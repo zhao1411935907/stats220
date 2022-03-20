@@ -7,7 +7,11 @@
 * I used *two* images.
 * I also *swapped the color of the text and background*.
 * I also put the text on top.
+
 ## my code:
+{{% highlight html %}}
+<h1>example:</h1>
+{{% /highlight %}}
 ```{r}
 library(magick)
 picture1<- image_read("https://p1.ssl.qhimgs1.com/bdr/200_200_/t0115f01c975ced943d.jpg") %>%
