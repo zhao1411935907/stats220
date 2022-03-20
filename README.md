@@ -10,4 +10,6 @@ Here is a link to the website for my stats220 repo: https://github.com/zhao14119
 
 * ![插入图片](https://p0.ssl.qhimgs4.com/t011625a36dc40eab59.jpg)
 
+**This is the finished product:**
+![插入图片](https://github.com/zhao1411935907/stats220/blob/main/my_meme.png)
 
