@@ -9,9 +9,9 @@
 * I also put the text on top.
 
 ## my code:
-{{% highlight html %}}
+
 <h1>example:</h1>
-{{% /highlight %}}
+I used R package [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)
 
 
 ```{r}
