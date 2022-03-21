@@ -7,11 +7,11 @@
 * I used *two* images.
 * I also *swapped the color of the text and background*.
 * I also put the text on top.
-
+I used R package [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)
 ## my code:
 
 <h1>example:</h1>
-I used R package [{magick}] (https://cran.r-project.org/web/packages/magick/vignettes/intro.html)
+
 
 
 ```{r}
