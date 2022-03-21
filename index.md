@@ -11,7 +11,7 @@
 ## my code:
 
 <h1>example:</h1>
-I used R package [{magick}](https://cran.r-project.org/web/packages/magick/vignettes/intro.html)
+I used R package [{magick}] (https://cran.r-project.org/web/packages/magick/vignettes/intro.html)
 
 
 ```{r}
